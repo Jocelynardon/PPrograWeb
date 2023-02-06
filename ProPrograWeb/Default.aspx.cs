@@ -13,5 +13,15 @@ namespace ProPrograWeb
         {
 
         }
+        public void OnClick_Btn_Ingresar_Usuario(Object sender, EventArgs e)
+        {
+            asignar_Estado(usuario.Text,password.Text);
+        }
+
+        public void asignar_Estado(string usuario, string password)
+        {
+            ViewState["usuario"] = usuario;
+            ViewState["password"] = password;
+        }
     }
 }
