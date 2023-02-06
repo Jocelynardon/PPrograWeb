@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Luxture" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="About.aspx.cs" Inherits="ProPrograWeb.About" %>
+﻿<%@ Page Title="Nosotros" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="About.aspx.cs" Inherits="ProPrograWeb.About" %>
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
     <h2><%: Title %>.</h2>
@@ -14,7 +14,14 @@
                 con el objetivo de satisfacer las necesidades de nuestros clientes.
             </p>
         </div>
-    </div>
+        <div class="col-md-6 col-sm-6">
+            <h3>Visión</h3>
+            <p>
+                Para 2025, posicionarnos como líderes en el mercado nacional de muebles personalizados para el hogar y 
+                oficina manteniendo altos estándares de producción. Contar siempre con la tecnología de vanguardia que 
+                permita brindar el mayor valor posible para nuestros clientes.
 
-    <p>Use this area to provide additional information.</p>
+            </p>
+        </div>
+    </div>
 </asp:Content>
