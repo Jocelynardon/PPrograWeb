@@ -420,11 +420,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jocel\\source\\repos\\PPrograWeb\\PPrograWeb.csproj",
+      "projectUniqueName": "C:\\Users\\jocel\\Documents\\GitHub\\PPrograWeb\\PPrograWeb\\PPrograWeb.csproj",
       "projectName": "PPrograWeb",
-      "projectPath": "C:\\Users\\jocel\\source\\repos\\PPrograWeb\\PPrograWeb.csproj",
+      "projectPath": "C:\\Users\\jocel\\Documents\\GitHub\\PPrograWeb\\PPrograWeb\\PPrograWeb.csproj",
       "packagesPath": "C:\\Users\\jocel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jocel\\source\\repos\\PPrograWeb\\obj\\",
+      "outputPath": "C:\\Users\\jocel\\Documents\\GitHub\\PPrograWeb\\PPrograWeb\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jocel\\AppData\\Roaming\\NuGet\\NuGet.Config",

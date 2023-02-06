@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bZouPgUQdj4LLaB3MyS4Nofx2AtPZn28Q2VcnyqhComRf5IJ7pjbnJ9PUgjb3TNZkLC32OhnDni2rNg5bH47/g==",
+  "dgSpecHash": "Zvh07a9sK+UirVwZJCZ0FH7JOSnz2YbaM3FuAAErxQMgZtIXSCS5ILPV7oBFlcpeIcoePe3Apk6ZWDwYYSuFmQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jocel\\source\\repos\\PPrograWeb\\PPrograWeb.csproj",
+  "projectFilePath": "C:\\Users\\jocel\\Documents\\GitHub\\PPrograWeb\\PPrograWeb\\PPrograWeb.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jocel\\.nuget\\packages\\bootstrap\\5.2.3\\bootstrap.5.2.3.nupkg.sha512",
     "C:\\Users\\jocel\\.nuget\\packages\\bootstrapblazor\\7.3.0\\bootstrapblazor.7.3.0.nupkg.sha512"
